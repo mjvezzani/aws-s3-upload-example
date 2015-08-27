@@ -4,6 +4,7 @@ gem 'aws-sdk'
 gem 'pry-rails', :group => :development
 gem 'rspec-rails'
 gem 'database_cleaner'
+gem 'capybara'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
